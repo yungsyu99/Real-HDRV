@@ -1,5 +1,5 @@
 # Real-HDRV
-CVPR 2024: Official repository of 'Towards Real-World HDR Video Reconstruction: A Large-Scale Benchmark Dataset and A Two-Stage Alignment Network'
+CVPR 2024: Official Repository of 'Towards Real-World HDR Video Reconstruction: A Large-Scale Benchmark Dataset and A Two-Stage Alignment Network'
 # Towards Real-World HDR Video Reconstruction: A Large-Scale Benchmark Dataset and A Two-Stage Alignment Network
 ### By [Yong Shu](https://github.com/yungsyu99), [Liquan Shen](..), [Xiangyu Hu](..), [Mengyao Li](..), [Zihao Zhou](..) ###
 
@@ -11,13 +11,15 @@ CVPR 2024: Official repository of 'Towards Real-World HDR Video Reconstruction: 
 
 
 ## Download dataset
-We provide the original raw data to facilitate the research on HDR imaging. Now, we only make 10 scenes of our RAW-HDR dataset public. The full dataset will be made publicly accessible upon acceptance. 
+We provide the original raw data to facilitate the research on HDR imaging. Since our dataset is collected from RAW domain, the data processing is highly flexible. The researchers can organize the RAW data according to their tasks to generate the desired datasets.
+Here, we provide the pre-generated datasets for HDR video reconstrcution (2-exposures case) and HDR deghosting. 
 
 |              |                        Baidu Netdisk                         |                         Google Drive                        | Description                                                  |
 | :----------- | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| RAW-HDR |   RAW Dataset in [link](https://pan.baidu.com) code:ab13 | todo | The original RAW version dataset. |
+| Real-HDRV |   original RAW Dataset in [link](https://pan.baidu.com) code:ab13 | todo | The original RAW version dataset. |
+| Real-HDRV-v1 |   sRGB HDR video reconstruction dataset in [link](https://pan.baidu.com) code:ab13 | todo | This dataset is organized for HDR video reconstrcution. |
+| Real-HDRV-v2 |  HDR deghosting dataset in [link](https://pan.baidu.com) code:ab13 | todo | This dataset is organized for the task of HDR deghosting. |
 
 
 ## Copyright
-
 Our Real-HDRV dataset is available for the academic purpose only.    
