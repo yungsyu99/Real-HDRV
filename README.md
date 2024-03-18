@@ -6,7 +6,7 @@ CVPR 2024: Official repository of 'Towards Real-World HDR Video Reconstruction: 
 ## A Real-World benchmark dataset for HDR Video Reconstruction
 
 <p align="left">
-    <img src='sample/sample.png' width="600">
+    <img src='dataset_samples/sample.png' width="600">
 </p>
 
 
